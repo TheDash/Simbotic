@@ -1,0 +1,8 @@
+prefix=/home/dash/contracting/galois/Simbotic/ros/install
+
+Name: airsim_ros
+Description: Description of airsim_ros
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/dash/contracting/galois/Simbotic/ros/install/lib 
+Requires: 

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>airsim_ros</name>
+  <version>0.0.1</version>
+  <description>The airsim_ros package</description>
+
+  <maintainer email="noobaca2@gmail.com">Devon Ash</maintainer>
+  <author email="noobaca2@gmail.com">Devon ASh</author>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <export>
+
+  </export>
+</package>

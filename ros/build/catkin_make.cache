@@ -1,0 +1,2 @@
+airsim_ros
+-DCATKIN_DEVEL_PREFIX=/home/dash/contracting/galois/Simbotic/ros/devel -DCMAKE_INSTALL_PREFIX=/home/dash/contracting/galois/Simbotic/ros/install -G Unix Makefiles
